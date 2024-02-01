@@ -1,1 +1,1 @@
-{"access_token": "BQDdxg_axzqz9-zwxj8gPimNz6K1KezKSeNhTsfnAImOJSUt3uPBruO0KwqytYaHef7oV9qVZ8XRltVR2kLiroJei_rafHJz_EZEpbIcKNheVtuFE0jy9JGy_LRNLkQfY5TEz6-Y4ysr_FD2aWgSeIT5t-M0_nMLVVeXCffVQ5TdQyjAHSbqD0vibj6W6kunREI93W1hrJYG73UWdPWGGn9xtmo4YkUytvXDnjZ-lvaHGoxAgNIf", "token_type": "Bearer", "expires_in": 3600, "scope": "user-library-read playlist-modify-private", "expires_at": 1703819750, "refresh_token": "AQA8LaZw1SmnADxNuURISCJW7hqubcIJ0uXZOem8ycR-lD0QgLGUHvmb33r4k53JpOJ-HUwBbQBhC19bHJxcpkhKWuPm47GR6G4_GiQ4OEATEq0OaPtnMihjZ8CQjZgo-2E"}
+{"access_token": "YOUR_ACCESS_TOKEN"}
